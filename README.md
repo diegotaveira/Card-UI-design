@@ -1,2 +1,3 @@
-![git](https://user-images.githubusercontent.com/95540354/172166916-ede732e2-e8d3-4020-9463-77da8ee9bb9d.png)
+![git](https://user-images.githubusercontent.com/95540354/172748551-adbdd59d-4b56-496d-89f7-851486cf9963.png)
+
 # Card-UI-design
